@@ -1,0 +1,24 @@
+{
+  "name": "2020-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio using aws and react.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/traceyhemp12/2020-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/traceyhemp12/2020-portfolio/issues"
+  },
+  "homepage": "https://github.com/traceyhemp12/2020-portfolio#readme",
+  "dependencies": {
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
