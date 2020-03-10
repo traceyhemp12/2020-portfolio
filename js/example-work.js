@@ -7,3 +7,5 @@ class ExampleWork extends React.Component{
         <section>It works</section>)
     }
 }
+
+export default ExampleWork;
